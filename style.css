@@ -1,0 +1,101 @@
+* {
+	margin:0;
+	padding:0;
+	
+}	
+.nav-link  {
+	color: black;
+}
+.text-dark {
+	font-weight:bold;
+}
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+   
+}
+.social-icons, .button{
+  text-align: right;
+  margin-left:50%;
+  }  
+.social-icons li {
+  display:inline-block;
+  list-style-type:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  }
+.social-icons li a {
+  border-bottom: none;
+  }
+.social-icons li img {
+  width:20px;
+  height:20px;
+  margin-right: 10px;
+}
+.gallery-container h1 {
+    text-align: center;
+    margin-top: 70px;
+    font-family: 'Droid Sans', sans-serif;
+    font-weight: bold;
+    color: #58595a;
+}
+.gallery-container p.page-description {
+    text-align: center;
+    margin: 30px auto;
+    font-size: 18px;
+    color: #85878c;
+}
+.tz-gallery {
+    padding: 40px;
+	margin:0;
+}
+/*Картинка текст*/
+
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+.featurette-divider {
+  margin-left: 5rem 0; 
+  text-align: center;
+ 
+}
+
+.featurette-heading, .p .h2 {
+  font-weight: 300;
+  line-height: 1;
+  /* rtl:remove */
+  letter-spacing: -.05rem;
+  text-align: center;
+}
+
+.featurette-heading {
+    font-size: 50px;	
+  }
+
+
+.btn-primary {
+	text-align: center;
+	background-color: white;
+	color: black;
+}
+	
+
+.row h3, p {
+	text-align: center;
+}	
+
+.social-icons, .year {
+	text-align: center;
+}	
